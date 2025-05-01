@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM openjdk:1.8
 
 COPY target/uber-app.jar /usr/app/
 
